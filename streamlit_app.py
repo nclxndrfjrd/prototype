@@ -19,7 +19,7 @@ if 'data' not in st.session_state:
                                                    'Voltage (V)', 'Current (A)'])
     st.session_state.start_time = time.time()
 
-# Constants for the formulas
+# Constants for the formulassssss gaIIing sa paper
 C_L = 1.2  # Lift coefficient
 C_D = 0.8  # Drag coefficient
 A = 10  # Blade area in m^2
